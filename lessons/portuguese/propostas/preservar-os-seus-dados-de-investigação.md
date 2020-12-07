@@ -133,7 +133,7 @@ a utilidade dos dados da pesquisa inclui:
 
 Como o último exemplo sugere, um dos principais objetivos da documentação
 é descrever as ligações significativas que existem entre os dados da pesquisa,
-e que podem não permanecer óbvios ao longo do tempo.
+e que podem não permanecer óbvias ao longo do tempo.
 
 Quando documentar depende muito do indivíduo e do ritmo de
 pesquisa. A regra principal é adquirir o hábito de escrever e
@@ -141,7 +141,7 @@ atualizar a documentação em intervalos regulares, sendo o ideal sempre que um 
 de trabalho for concluído ao final da manhã, da tarde ou do dia. Ao mesmo tempo,
 é importante não se preocupar com a perfeição, e sim buscar escrever
 uma documentação consistente e eficiente que seja útil para você e
-imaginando que outra pessoa use seus dados de pesquisa, anos após o fato.
+esperando que outra pessoa use seus dados de pesquisa, anos após o fato.
 
 * * * * *
 
