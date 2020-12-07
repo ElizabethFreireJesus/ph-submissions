@@ -148,7 +148,7 @@ esperando que outra pessoa use seus dados de pesquisa, anos após o fato.
 #### Formatos de arquivo
 
 Idealmente, os dados e a documentação da pesquisa devem ser salvos em [platform
-agnostic][] como .txt para notas e .csv (valores separados por 
+agnostic]:https://pt.wikipedia.org/wiki/Multiplataforma como .txt para notas e .csv (valores separados por 
 vírgula) ou .tsv (valores separados por tabulação) para dados tabulados. Esses formatos
 de texto simples são preferíveis aos formatos proprietários usados como padrões
 pelo Microsoft Office ou iWork, porque aqueles podem ser abertos por muitos pacotes 
